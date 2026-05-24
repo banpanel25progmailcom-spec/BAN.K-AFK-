@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BAN.K AFK",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "ban.k_afk",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "BANK_SMP.aternos.me",
+    "port": 17802,
     "version": "1.21.1"
   },
   "position": {
@@ -28,10 +28,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 100,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Hello Everyone!",
         "I like to play Minecraft!"
       ]
     },
