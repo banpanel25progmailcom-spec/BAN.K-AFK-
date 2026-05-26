@@ -40,7 +40,7 @@
     "auto-reconnect-delay": 1,
     "max-reconnect-delay": 50,
     "periodic-rejoin": {
-      "enabled": true,
+      "enabled": false,
       "min-interval": 20,
       "max-interval": 60
     }
